@@ -1,0 +1,2 @@
+class PleaViMovie < ApplicationRecord
+end

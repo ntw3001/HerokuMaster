@@ -1,0 +1,2 @@
+class PleaViList < ApplicationRecord
+end
